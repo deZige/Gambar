@@ -1,0 +1,2 @@
+# Gambar
+Folder Gambar deZige
